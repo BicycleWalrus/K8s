@@ -8,3 +8,5 @@ behavior:
       value: 5
       periodSeconds: 60
     selectPolicy: Min
+
+# https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/
